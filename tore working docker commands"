@@ -1,0 +1,5 @@
+ dockerCommand2.txt | 3 [32m+[m[31m--[m
+ dockerCommand3.txt | 2 [32m+[m[31m-[m
+ dockerCommand4.txt | 3 [32m+[m[31m--[m
+ dockerfile         | 2 [32m+[m[31m-[m
+ 4 files changed, 4 insertions(+), 6 deletions(-)
